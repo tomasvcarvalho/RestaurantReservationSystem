@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Cabrito Forno",
+    "maker": "Adega do Saloio",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg/1200px-Sporting_Clube_de_Portugal_%28Logo%29.svg.png",
+    "url": "www.test.com",
+    "title": "Cabrito Forno",
+    "description": "",
+    "Ratings": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": "Lulas Saloia",
+    "maker": "Adega do Saloio",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg/1200px-Sporting_Clube_de_Portugal_%28Logo%29.svg.png",
+    "url": "www.test.com",
+    "title": "Lulas Saloia",
+    "description": "",
+    "Ratings": [
+      4,
+      2
+    ]
+  }
+]
